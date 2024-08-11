@@ -1,7 +1,7 @@
 // Online Java Compiler
 // wap a program to square every element of a array
 
-class HelloWorld {
+class SquaredProgram {
     public static void main(String[] args) {
         int a[]={4,9,5,7,3};
         for(int i=0;i<a.length;i++){
